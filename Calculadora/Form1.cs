@@ -35,6 +35,8 @@ namespace Calculadora
             Valor2 = Convert.ToInt32(Numero2Text.Text);
             int Resultado = Valor1 + Valor2;
             ResultadoText.Text = Resultado.ToString();
+            //comentario
+            //commit
 
         }
     }
