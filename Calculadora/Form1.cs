@@ -37,7 +37,7 @@ namespace Calculadora
             ResultadoText.Text = Resultado.ToString();
             //comentario
             //commit
-
+            //aga
         }
     }
 }
